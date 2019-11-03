@@ -4,18 +4,16 @@
     "occupation":"Computer Science Student and Algorithm Development Intern",
     "description":"Areas of interest/experience include Machine Learning, Game Development and Cyber Security",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"Originally from Eswatini, my talents outside of computer science include music, art and dance. I have been a member of and lead several rock bands throughout my educational career and I have over 2 years experience in Argentinian Tango.",
+    "contactmessage":"Send a direct message to me in the form below.",
     "email": "fezile.manana@protonmail.com",
-    "phone": "555-555-5555",
     "address":{
-      "street":"(Your Street)",
       "city":"Dresden",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "country":"Germany",
+      "zip":"01069"
     },
-    "website": "https://fmanana.github.io/portfolio",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://fmanana.github.io",
+    "resumedownload":"https://github.com/fmanana/Awesome-CV/raw/master/examples/cv.pdf",
     "social":[
       {
         "name":"github",
@@ -30,27 +28,27 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"A list of skills that is still expanding",
     "education":[
       {
         "school":"Jacobs University Bremen",
         "degree":"Bachelor's Degree in Computer Science",
         "graduated":"June 2020",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"During my time at Jacobs I have gained invaluable skills and and knowledge that I have already begun using in my professional life. These range from the software development cycles to best practises and design patterns. Relevant courses include: Machine Learning, Artificial Intelligence, Secure and Dependable Systems, Software Engineering and Operating Systems."
       },
       {
         "school":"UWCSA Waterford Kamhlaba",
         "degree":"International Baccalaureate Diploma",
         "graduated":"November 2016",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"The IB Diploma Programme is an internationally recognised pre-university course that cohere to high education standards. Subjects of focus include: Physics, Chemistry and Mathematics."
       }
     ],
     "work":[
       {
-        "company":"IDT GmbH",
+        "company":"IDT Europe GmbH",
         "title":"Algorithm Development Intern ",
         "years":"June 2019 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"I researched and implemented algirithms to reduce the memory footprint and improve efficiency of gas sensor products. I also prototyped a proof of concept for a firmware update specification of a new sensor signal conditioner."
       }
     ],
     "skills":[
@@ -92,27 +90,23 @@
     "projects": [
       {
         "title":"NO MAD",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
+        "category":"Flight recommendations for students based on university holidays.",
+        "image":"nomad.jpg",
         "url":"https://github.com/fmanana/NO-MAD"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"CampusChat",
+        "category":"A web app for students to chat with professors and teaching assistants",
+        "image":"cc.jpg",
+        "url":"https://github.com/fmanana/campuschat"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"You're gonna go far kid.",
+        "user":"The Offspring"
       }
     ]
   }
