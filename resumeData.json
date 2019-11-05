@@ -4,7 +4,7 @@
     "occupation":"Computer Science Student and Algorithm Development Intern",
     "description":"Areas of interest/experience include Machine Learning, Game Development and Cyber Security",
     "image":"profilepic.jpg",
-    "bio":"Originally from Eswatini, my talents outside of computer science include music, art and dance. I have been a member of and lead several rock bands throughout my educational career and I have over 2 years experience in Argentinian Tango.",
+    "bio":"Originally from Eswatini, I am currently pursuing my bachelor's degree in computer science at Jacobs University Bremen. My interests outside of computer science include music and art. I have been a member of and lead several rock bands throughout my educational career.",
     "contactmessage":"Send a direct message to me in the form below.",
     "email": "fezile.manana@protonmail.com",
     "address":{
@@ -28,19 +28,19 @@
     ]
   },
   "resume":{
-    "skillmessage":"A list of skills that is still expanding",
+    "skillmessage":"Technical skills (Warning: list may be subject to growth)",
     "education":[
       {
         "school":"Jacobs University Bremen",
         "degree":"Bachelor's Degree in Computer Science",
         "graduated":"June 2020",
-        "description":"During my time at Jacobs I have gained invaluable skills and and knowledge that I have already begun using in my professional life. These range from the software development cycles to best practises and design patterns. Relevant courses include: Machine Learning, Artificial Intelligence, Secure and Dependable Systems, Software Engineering and Operating Systems."
+        "description":"During my time at Jacobs I have gained skills and knowledge that have proven to be invaluable in my professional work experience. Relevant courses include: Machine Learning, Artificial Intelligence, Secure and Dependable Systems, Software Engineering and Operating Systems."
       },
       {
         "school":"UWCSA Waterford Kamhlaba",
         "degree":"International Baccalaureate Diploma",
         "graduated":"November 2016",
-        "description":"The IB Diploma Programme is an internationally recognised pre-university course that cohere to high education standards. Subjects of focus include: Physics, Chemistry and Mathematics."
+        "description":"The IB Diploma Programme is an internationally recognised pre-university course that cohere to the highest and most rigorous educational standards."
       }
     ],
     "work":[
@@ -48,7 +48,7 @@
         "company":"IDT Europe GmbH",
         "title":"Algorithm Development Intern ",
         "years":"June 2019 - Present",
-        "description":"I researched and implemented algirithms to reduce the memory footprint and improve efficiency of gas sensor products. I also prototyped a proof of concept for a firmware update specification of a new sensor signal conditioner."
+        "description":"Researched and implemented algirithms to reduce the memory footprint and improve efficiency of gas sensors. Prototyped a proof of concept for a firmware update specification of a new sensor signal conditioner."
       }
     ],
     "skills":[
