@@ -8,9 +8,9 @@
     "contactmessage":"Send a direct message to me in the form below.",
     "email": "fezile.manana@protonmail.com",
     "address":{
-      "city":"Dresden",
+      "city":"Bremen",
       "country":"Germany",
-      "zip":"01069"
+      "zip":"28759"
     },
     "website": "https://fmanana.github.io",
     "resumedownload":"https://github.com/fmanana/Awesome-CV/raw/master/examples/cv.pdf",
@@ -105,8 +105,8 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"You're gonna go far kid.",
-        "user":"The Offspring"
+        "text":"Mr. Manana has very good theoretical knowledge and a very quick grasp. This enables him to familiarise himself with new subject areas within a short time. [Translated from German]",
+        "user":"F. Näpelt - IDT Europe GmbH"
       }
     ]
   }
