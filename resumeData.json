@@ -8,9 +8,8 @@
     "contactmessage":"Send a direct message to me in the form below.",
     "email": "fezile.manana@protonmail.com",
     "address":{
-      "city":"Dresden",
-      "country":"Germany",
-      "zip":"01159"
+      "city":"Düsseldorf",
+      "country":"Germany"
     },
     "website": "https://fmanana.github.io",
     "resumedownload":"https://github.com/fmanana/Awesome-CV/raw/master/examples/cv.pdf",
@@ -28,7 +27,6 @@
     ]
   },
   "resume":{
-    "skillmessage":"Technical skills (Warning: list may be subject to growth)",
     "education":[
       {
         "school":"Jacobs University Bremen",
@@ -45,6 +43,12 @@
     ],
     "work":[
       {
+        "company":"Ubisoft Blue Byte GmbH",
+        "title":"Game Security Intern",
+        "years":"January 2021 - Present",
+        "description":"Aqcuired practical, professional skills and experience in the Game Security area."
+      },
+      {
         "company":"Renesas Electronics Germany GmbH",
         "title":"Bachelor Student",
         "years":"February 2020 - August 2020",
@@ -57,6 +61,7 @@
         "description":"Researched and implemented algirithms to reduce the memory footprint and improve efficiency of gas sensors. Prototyped a proof of concept for a firmware update specification of a new sensor signal conditioner."
       }
     ],
+    "skillmessage":"Technical skills (Warning: list may be subject to growth)",
     "skills":[
       {
         "name":"Git",
@@ -73,7 +78,7 @@
       {
         "name":"Python",
         "level":"80%"
-      },      
+      },
       {
         "name":"GitLab",
         "level":"80%"
